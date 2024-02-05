@@ -1,4 +1,4 @@
-![logo](https://github.com/Untitled-Studio-Developer/Untitled-Studio-Developer/assets/135037013/10a6186c-b20b-454b-8348-6a6e22a924c6)
+![헤더 이미지](https://github.com/Untitled-Studio-Developer/Untitled-Studio-Developer/assets/135037013/d453d7c0-53c1-403d-97d3-0e360572cfc3)
 
 # UntitledStudio
 
